@@ -1,0 +1,29 @@
+
+Programming Paradigms
+
+What is Programming?
+
+Simply explained, programming is the act of delivering a set of instructions to a computer to perform. If you've ever cooked from a recipe, imagine yourself as the computer and the recipe's creator as the programmer. The recipe creator gives you a series of instructions to read and then follow. The more complicated the instructions, the more complicated the outcome!
+
+What is software and how is it processed on a computer?
+
+Instructions that inform a computer what to perform are referred to as software. The total set of programs, methods, and routines related with the operation of a computer system is referred to as software. The phrase was developed to distinguish these instructions from hardware, which refers to the actual components of a computer system. A program, or software program, is a set of instructions that guides the hardware of a computer to complete a task.
+
+System software and application software are the two primary forms of software. System software manages a computer's internal operations, mostly through an operating system, and also manages peripherals such as displays, printers, and storage devices. Application software, on the other hand, guides the computer to execute commands entered by the user and may be defined as any program that processes data for the user.
+
+By what features do you group programming languages?
+
+Programming language characteristics
+
+Simplicity: the language must provide clear and basic concepts that are easy to comprehend, allowing for easier learning and implementation.
+
+Capability: In addition to being simple to use, the language should have a solid set of features that allow it to execute a wide range of tasks.
+
+Abstraction is the capacity of a language to specify and utilize complex structures or actions while disregarding certain low-level characteristics.
+
+Efficiency: Programming languages that can be translated and performed effectively assist to minimize excessive memory and time consumption.
+
+Structuring: The language enables programmers to construct code in accordance with structured programming notions in order to avoid mistakes.
+
+Compactness: a language with this property may represent actions in a compact manner without the need for excessive information.
+
